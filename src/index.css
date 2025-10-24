@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@plugin "daisyui";
+/* Slight blur and global scroll behaviour */
+html { scroll-behavior: smooth; }
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
